@@ -46,9 +46,11 @@ Cada sesión está diseñada para ser **autónoma y práctica**, permitiendo seg
 | **6**    | **13-sep** | Python   | Objetos                 | [Ver grabación](https://urosario.zoom.us/rec/share/KnAeYokYvvVK6JE8Vla7g3z2u4ARpN5usI5YQg-RRWo_I5rssx_xody5DNp-QZzI.jAmtail4k6sTjwwy?startTime=1757775075000)                              |
 | **7**    | **20-sep** | R        | Importación de datos    | [Ver grabación](https://urosario.zoom.us/rec/share/7bYFhhNoC_fUqcNoWFrbNy9H0oQzfgx8yzpKguDfJ1d9VPxRixZ_c-IVZNqdTMw9.-iLBh0K0QLYhC_xn?startTime=1758380373000)                              |
 | **8**    | **27-sep** | Python   | Flask                   | [Ver grabación](https://urosario.zoom.us/rec/share/OnklK0yiehBO7HNnv3VTOpRV6e-zeBM0lPwWYjubsGEMc9NwY5RvUBoyWThhH4XB.BJ6zdKXVm7zcJaut?startTime=1758984840000)                              |
-| **9**    | **4-oct**  | R        | Transformación de datos |                 |
-| **10**   | **11-oct** | Python   | Introducción a Pandas   |                 |
-
+| **9**    | **4-oct**  | R        | Transformación de datos | [Ver grabación](https://urosario.zoom.us/rec/share/dn5XQ6QhVyO6Gsac5fMX583TOuPjxJ9l2JXiBnIvrsI-9_UqXOUP_ynyzWSnq_Uh.iYMMy2tJafa_KwnQ)                |
+| **10**   | **11-oct** | Python   | Introducción a Pandas   | [Ver grabación](https://urosario.zoom.us/rec/share/1fxbdbfBvE03bft3qdtUj76BHcHoZE2BzeBJCssLc1adryfLlFY0wJCRwyVZ2ToL.duiNU9LXJhuURsM-)                |
+| **11**   | **18-oct** | R        | Ordenamiento de datos   | [Ver grabación](https://urosario.zoom.us/rec/share/xsQ7j3gbtkhoR8sCiEoZYEuw8t9iYjmxaNn-JdgPVua7HzqJxnmhqTKuCANU-TIq.PzmJwLsvNzBQhInM)               |
+| **12**   | **25-oct** | Python   | Visualización de datos  | [Ver grabación](https://urosario.zoom.us/rec/share/3adRcwaN1YmwF_eK3P0S7fTkcMOCYPsdf6dyimah1C__p0D_kfIajGPOExnb8icF.8gcTjLKwokgjol6k)        |
+| **13**   | **01-nov** | R        |                    |               |
 ---
 
 ## Temas que abordamos
