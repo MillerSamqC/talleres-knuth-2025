@@ -1,0 +1,4 @@
+objeto,x,y,z
+cubo,0,0,0
+esfera,1,1,0
+cilindro,-1,10,3
